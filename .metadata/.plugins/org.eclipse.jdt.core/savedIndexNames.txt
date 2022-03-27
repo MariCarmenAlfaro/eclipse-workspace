@@ -6,5 +6,4 @@ INDEX VERSION 1.131+C:\Users\savonarola\eclipse-workspace\.metadata\.plugins\org
 1725040058.index
 1865797976.index
 381219125.index
-2410782863.index
 4172714009.index
