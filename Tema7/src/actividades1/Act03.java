@@ -20,7 +20,7 @@ public class Act03 extends JFrame {
 		
 		add(lblMensaje);
 		add(btnAceptar);
-		setVisible(true);
+		setVisible(true); 
 		
 		
 		JOptionPane.showMessageDialog(null, "Se ha detectado un escaneo de red desde la IP 192.168.1.51", "Alerta de seguridad", JOptionPane.WARNING_MESSAGE);
