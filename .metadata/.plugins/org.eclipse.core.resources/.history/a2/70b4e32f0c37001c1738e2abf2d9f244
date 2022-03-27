@@ -1,0 +1,10 @@
+
+public class MiEjemplo {
+
+	public static void main(String[] args) {
+		
+		char numero = 'a' + 67;
+System.out.print("Juan me dijo:hola" + numero);
+	}
+
+}

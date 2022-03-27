@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+//Programa que lee un precio, lo muestra después en pantalla y le hace un 10% de descuento.
+
+public class Ejemplo12 {
+
+	public static void main(String[] args) {
+
+		Scanner entrada = new Scanner(System.in);
+		
+		System.out.println("Precio: ");
+		int precio = entrada.nextInt();
+		
+		
+		System.out.println("El precio total son " + precio + " euros.");
+		
+		System.out.println("Descuento: ");
+		
+		int descuento = entrada.nextInt();
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

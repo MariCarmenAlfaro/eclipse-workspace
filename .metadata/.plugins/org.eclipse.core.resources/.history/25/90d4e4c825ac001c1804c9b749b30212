@@ -1,0 +1,32 @@
+package actividades1;
+//3.- Crea un panel de diálogo con la siguiente apariencia:
+
+import javax.swing.*;
+import java.awt.*;
+public class Act03 extends JFrame {
+	public Act03 () {
+		super("Alterta de seguridad");
+		setSize(400,200);
+		setDefaultCloseOperation(EXIT_ON_CLOSE);
+		
+		setLayout(new FlowLayout());
+		
+		JLabel lblMensaje = new JLabel("Se ha detectado un escaneo de red desde la IP 192.168.1.51");
+		JButton btnAceptar = new JButton("Aceptar");
+		
+		
+		
+		add(lblMensaje);
+		add(btnAceptar);
+		setVisible(true);
+	}
+	
+	
+	
+	
+	
+	
+public static void main(String[] args) {
+		Act03 act03 =new Act03();
+	}	
+}

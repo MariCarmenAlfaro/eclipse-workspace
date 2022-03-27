@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;actividad1.Guardavle&apos; to &apos;Guardable&apos;&#x0D;&#x0A;- Original project: &apos;Tema6&apos;&#x0D;&#x0A;- Original element: &apos;actividad1.Guardavle&apos;&#x0D;&#x0A;- Renamed element: &apos;actividad1.Guardable&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Guardavle&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;actividad1{Guardavle.java[Guardavle" matchStrategy="1" name="Guardable" qualified="false" references="true" similarDeclarations="false" stamp="1647011201041" textual="false" version="1.0"/>
+</session>

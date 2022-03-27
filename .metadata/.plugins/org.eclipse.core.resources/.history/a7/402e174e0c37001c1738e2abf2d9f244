@@ -1,0 +1,14 @@
+
+public class MiEjemplo {
+
+	public static void main(String[] args) {
+		
+		int edad = 21;
+
+if (edad != 21) {
+	System.out.println("esta mal");
+}
+	}
+	
+
+}

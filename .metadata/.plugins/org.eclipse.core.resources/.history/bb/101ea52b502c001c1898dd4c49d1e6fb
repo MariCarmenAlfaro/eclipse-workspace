@@ -1,0 +1,15 @@
+
+public class Ejemplo08 {
+ public static void maind(String [] args) {
+	
+	int asistentes = 5000;
+	
+	long personas = asistentes;
+	
+	System.out.println(personas);
+	
+	
+	
+}
+	
+}

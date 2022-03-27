@@ -1,0 +1,20 @@
+package actividades;
+import java.util.Scanner;
+public class Actividad4 {
+
+	public static void main(String[] args) {
+Scanner entrada = new Scanner (System.in);
+
+//Crea un programa que pregunte el nombre de un alumno y sus notas de 3 evalucaiones y de la media
+
+System.out.println("Nombre del alumno:");
+		String nombre= entrada.nextLine();
+		
+System.out.println("Me gustaria saber las notas de las tres evaluaciones. Dime la primera");		
+	float primeraEvaluacion = entrada.nextFloat();	
+		
+		
+		
+	}
+
+}

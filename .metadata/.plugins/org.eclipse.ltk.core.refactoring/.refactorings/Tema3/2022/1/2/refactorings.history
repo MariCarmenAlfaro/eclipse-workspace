@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;coti&apos; in &apos;ejerciciosarrays3.Act2.main(...)&apos; to &apos;cotizacion&apos;&#x0D;&#x0A;- Original project: &apos;Tema3&apos;&#x0D;&#x0A;- Original element: &apos;ejerciciosarrays3.Act2.main(String[]).coti&apos;&#x0D;&#x0A;- Renamed element: &apos;coti&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;coti&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;ejerciciosarrays3{Act2.java[Act2~main~\[QString;@coti!434!506!441!444!\[D!0!false" name="cotizacion" references="true" stamp="1642178657487" version="1.0"/>
+</session>

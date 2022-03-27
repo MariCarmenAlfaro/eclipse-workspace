@@ -1,0 +1,23 @@
+import java.util.Scanner;
+
+public class ejemplo06 {
+
+	public static void main(String[] args) {
+		public static void main(String[] args) {
+			 Scanner entrada = new Scanner (System.in);
+			 System.out.println("Que temperatura hace?");
+			 float temperatura = entrada.nextFloat();
+			  if (temperatura <20) {
+				  
+				  System.out.println("Hace fresquitoooooo");
+			  } else {
+				System.out.println("Se esta bien");  
+			  }
+			  }
+			 
+					
+					
+					
+	}
+
+}

@@ -1,0 +1,8 @@
+
+public class MiEjemplo {
+
+	public static void main(String[] args) {
+System.out.print("Juan me dijo:hola");
+	}
+
+}

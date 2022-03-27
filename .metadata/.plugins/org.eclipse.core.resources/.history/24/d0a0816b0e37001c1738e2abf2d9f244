@@ -1,0 +1,14 @@
+
+public class MiEjemplo {
+
+	public static void main(String[] args) {
+		
+		int alumnos;
+		
+		alumnos = 25;
+		System.out.println(alumnos);
+}
+	}
+	
+
+}
